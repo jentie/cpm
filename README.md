@@ -9,12 +9,12 @@ content:
 * Links
 * Software Packages 
 * Examples
-** BASIC
-** C
-*** Aztech C
-*** MESCC
-** PASCAL
-*** Turbo Pascal
+  * BASIC
+  * C
+    * Aztech C
+    * MESCC
+  * PASCAL
+    * Turbo Pascal
 
 
 
